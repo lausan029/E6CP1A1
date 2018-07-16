@@ -1,6 +1,6 @@
 # Utiliza álgebra booleana para hacer un refactoring de este código
 # Para verificar la respuestas, puedes variar los valores de a y b.
-
+preguntar xq no se entiende
 a = true
 b = true
 
